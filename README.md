@@ -9,6 +9,8 @@ Here are some of my skills for professional work:
 - **HTML5:** Advanced
 - **CSS3:** Advanced
 - **JavaScript:** Intermediate
+- **Next.js:** Intermediate
+- **Stencil.js:** Intermediate
 - **jQuery:** Intermediate
 - **Sass:** Advanced
 - **PHP:** Intermediate
