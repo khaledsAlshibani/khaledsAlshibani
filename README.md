@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Khaled Alshibani! 👋</h1>
+  <p>Hi there, I'm Khaled Alshibani! 👋</p>
   <img src="https://iili.io/J1Xl46X.png" alt="Khaled Alshibani Thumbnail" />
 </div>
 <br>
