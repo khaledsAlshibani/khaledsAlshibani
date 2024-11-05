@@ -1,9 +1,11 @@
 <div align="center">
-  <p>Hi there, I'm Khaled Alshibani! 👋</p>
+  <h1>Hi there, I'm Khaled Alshibani! 👋</h1>
   <img src="https://iili.io/J1Xl46X.png" alt="Khaled Alshibani Thumbnail" />
 </div>
 <br>
-I am a Front-end web developer and graphic designer at Technway Web & Design Solutions, specializing in creating visually striking websites and graphics. I design and develop websites with modern, creative designs and ensure their technical functionality, performance, user experience, and accessibility. I am passionate about web development and constantly strive for personal and professional growth in the field.
+I am a front-end developer with a strong commitment to UI excellence, rigorous testing, and comprehensive documentation. My expertise centers on building efficient, reusable web components, with a deep focus on Stencil.js for planning, styling, implementation, and extensive testing. I prioritize reusability and testability in every component, ensuring that each one meets stringent standards for performance, accessibility, and reliability.
+
+Currently, I’m expanding into backend development with Express.js to grow my capabilities as a full-stack developer. 
 
 ## My Current Tech Stack
 
