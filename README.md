@@ -3,9 +3,9 @@
   <img src="https://iili.io/J1Xl46X.png" alt="Khaled Alshibani Thumbnail" />
 </div>
 <br>
-I am a front-end developer with a strong commitment to UI excellence, rigorous testing, and comprehensive documentation. My expertise centers on building efficient, reusable web components, with a deep focus on Stencil.js for planning, styling, implementation, and extensive testing. I prioritize reusability and testability in every component, ensuring that each one meets stringent standards for performance, accessibility, and reliability.
+I am a front-end developer dedicated to building high-quality, user-friendly interfaces. I specialize in creating efficient, reusable web components using Stencil.js, focusing strongly on performance, accessibility, and reliability. I ensure each component is scalable, easy to test, and well-documented.
 
-Currently, I’m expanding into backend development with Express.js to grow my capabilities as a full-stack developer. 
+I am expanding my expertise into backend development with Express.js to become a well-rounded full-stack developer.
 
 ## My Current Tech Stack
 
