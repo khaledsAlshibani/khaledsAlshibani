@@ -5,8 +5,6 @@
 <br>
 I am a front-end developer dedicated to building high-quality, user-friendly interfaces. I specialize in creating efficient, reusable web components using Stencil.js, focusing strongly on performance, accessibility, and reliability. I ensure each component is scalable, easy to test, and well-documented.
 
-I am expanding my expertise into backend development with Express.js to become a well-rounded full-stack developer.
-
 ## My Current Tech Stack
 
 <img src="https://iili.io/J1Xk2jt.png" alt="current stack" style="height: 50px;" />
