@@ -1,7 +1,7 @@
-<div align="center">
-  <h1>Hi there👋, I'm Khaled Alshibani!</h1>
-  <img src="https://iili.io/J1Xl46X.png" alt="Khaled Alshibani Thumbnail" />
-</div>
+![Khaled Alshibani Thumbnail](https://iili.io/J1Xl46X.png)
+
+<h1>Hi there👋, I'm Khaled Alshibani!</h1>
+### Full-Stack Developer @ Technway.biz
 
 <br>
 
@@ -13,16 +13,21 @@ I also have experience in UI design with Figma and graphic design using Adobe Il
 
 <img src="https://iili.io/J1Xk2jt.png" alt="current stack" height="50" />
 
+## Latest Articles
+
+- [Upcasting — Using a Superclass Reference for a Subclass Object →](https://dev.to/khaledsalshibani/using-a-superclass-reference-for-a-subclass-object-22ga)
+- [Selecting CSS Classes Ending With The Same Name Using $= Operator →](https://dev.to/khaledsalshibani/selecting-css-classes-ending-with-the-same-name-using-operator-2hji)
+  
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9cf?style=for-the-badge&logo=github)](https://github.com/khaledsAlshibani)
-[![CodePen](https://img.shields.io/badge/CodePen-Follow-9cf?style=for-the-badge&logo=codepen)](https://codepen.io/khaledsAlshibani)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-9cf?style=for-the-badge&logo=x)](https://twitter.com/khaleds_saif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9cf?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khaledsAlshibani)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-Follow-9cf?style=for-the-badge&logo=x)](https://twitter.com/khaleds_saif)
+[![CodePen](https://img.shields.io/badge/CodePen-Follow-9cf?style=for-the-badge&logo=codepen)](https://codepen.io/khaledsAlshibani)
+[![Facebook](
 
-## Website & CV
+## Website
 
 [![Website](https://img.shields.io/badge/Website-Visit-9cf?style=for-the-badge&logo=appveyor)](https://khaled.technway.biz/)
-[![CV (Resume)](https://img.shields.io/badge/CV-View-9cf?style=for-the-badge&logo=appveyor)](https://khaled.technway.biz/assets/Khaled-Alshibani-Resume.pdf)
 
 Feel free to explore my repositories, and don't hesitate to connect with me on social media or reach out for collaboration and discussions!
