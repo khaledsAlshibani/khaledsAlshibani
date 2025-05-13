@@ -13,11 +13,6 @@ I also have experience in UI design with Figma and graphic design using Adobe Il
 ## My Current Tech Stack
 
 <img src="https://iili.io/J1Xk2jt.png" alt="current stack" height="50" />
-
-## Latest Articles
-
-- [Upcasting — Using a Superclass Reference for a Subclass Object →](https://dev.to/khaledsalshibani/using-a-superclass-reference-for-a-subclass-object-22ga)
-- [Selecting CSS Classes Ending With The Same Name Using $= Operator →](https://dev.to/khaledsalshibani/selecting-css-classes-ending-with-the-same-name-using-operator-2hji)
   
 ## Let's Connect
 
