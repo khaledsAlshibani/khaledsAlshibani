@@ -4,9 +4,7 @@
 
 I am a full-stack developer building user-friendly web applications. I use Stencil.js and Next.js for front-end development. For the back end, I work with PHP or Node.js using NestJS, along with databases such as MySQL or PostgreSQL, to develop REST and GraphQL APIs.
 
-I focus on performance, accessibility, testability, and clear documentation to ensure maintainable and scalable applications.
-
-I also have experience in UI design with Figma and graphic design using Adobe Illustrator and Photoshop.
+I focus on performance, accessibility, testability, and clear documentation to ensure maintainable and scalable applications. I also have experience in UI design with Figma and graphic design using Adobe Illustrator and Photoshop.
   
 ## Let's Connect
 
