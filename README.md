@@ -1,6 +1,6 @@
 # Hi there👋, I'm Khaled Alshibani.
 
-I am a full-stack developer building user-friendly web applications using modern frameworks and work with APIs and databases on the backend. I focus on performance, accessibility, clean code, testability, and clear documentation, while continuously learning and improving through real projects.
+I am web developer with a strong front end background and growing full stack experience, building user-friendly web applications using modern frameworks and work with APIs and databases on the backend. I focus on performance, accessibility, clean code, testability, and clear documentation, while continuously learning and improving through real projects.
 
 I also have experience in UI design with Figma and graphic design using Adobe Illustrator and Photoshop.
   
